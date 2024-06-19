@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LitureG(高黎财),come from BIT
+- 👋 Hi, I’m @LitureG,come from BIT
 - 👀 I’m interested in robots
 - 🌱 I’m currently learning python3
 - 💞️ I’m looking to collaborate on ...
